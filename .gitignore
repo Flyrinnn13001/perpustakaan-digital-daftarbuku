@@ -11,9 +11,10 @@ dist-ssr/
 .env.local
 .env.*.local
 
-# Capacitor native platforms (generated)
+# Capacitor & PWABuilder Android outputs
 android/
 ios/
+pwabuilder-android/
 
 # Logs & OS/Editor files
 *.log
