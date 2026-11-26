@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="116" fill="#0F294A"/>
+  <circle cx="408" cy="108" r="110" fill="#183D6D" opacity="0.55"/>
+  <circle cx="110" cy="420" r="130" fill="#F59E0B" opacity="0.14"/>
+  <!-- Open Book Pages -->
+  <path d="M116 156C116 144.954 124.954 136 136 136H226C242.569 136 256 149.431 256 166V366C256 354.954 247.046 346 236 346H136C124.954 346 116 337.046 116 326V156Z" fill="#FFFFFF"/>
+  <path d="M396 156C396 144.954 387.046 136 376 136H286C269.431 136 256 149.431 256 166V366C256 354.954 264.954 346 276 346H376C387.046 346 396 337.046 396 326V156Z" fill="#FEF3C7"/>
+  <!-- Warm Orange Bookmark Ribbon -->
+  <path d="M312 136H348V248L330 232L312 248V136Z" fill="#F59E0B"/>
+  <!-- Spine Accent -->
+  <path d="M116 348C116 359.046 124.954 368 136 368H234C246.15 368 256 377.85 256 390C256 377.85 265.85 368 278 368H376C387.046 368 396 359.046 396 348V366C396 377.046 387.046 386 376 386H278C265.85 386 256 395.85 256 408C256 395.85 246.15 386 234 386H136C124.954 386 116 377.046 116 366V348Z" fill="#F59E0B"/>
+  <!-- Book Text Lines -->
+  <rect x="146" y="182" width="80" height="12" rx="6" fill="#0F294A" opacity="0.8"/>
+  <rect x="146" y="212" width="80" height="10" rx="5" fill="#0F294A" opacity="0.35"/>
+  <rect x="146" y="238" width="64" height="10" rx="5" fill="#0F294A" opacity="0.35"/>
+  <rect x="146" y="264" width="74" height="10" rx="5" fill="#0F294A" opacity="0.35"/>
+  <rect x="286" y="268" width="76" height="10" rx="5" fill="#92400E" opacity="0.45"/>
+  <rect x="286" y="294" width="60" height="10" rx="5" fill="#92400E" opacity="0.45"/>
+</svg>
