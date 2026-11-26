@@ -1,0 +1,22 @@
+{
+  "id": "./",
+  "name": "Perpustakaan Digital DaftarBuku",
+  "short_name": "DaftarBuku",
+  "description": "Perpustakaan Digital SMA/SMK Kurikulum Merdeka & Bacaan Literasi Nusantara",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0F294A",
+  "theme_color": "#0F294A",
+  "lang": "id-ID",
+  "categories": ["education", "books"],
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

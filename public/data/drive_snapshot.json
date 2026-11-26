@@ -1,0 +1,1184 @@
+{
+  "rootFolderId": "1Du4ZdTS22RuSDdP8Zr9_YVVKZud0_dlI",
+  "csvFileId": "1d1mUDIE_BDexJVUpOsXsQfBJd82RszTF",
+  "sheetFileId": "1F9h-HndM7M0GR7QngsQcyem5jEsGgE6jG5jQFll24qQ",
+  "syncedAt": "2026-11-26T06:21:57.293Z",
+  "folders": {
+    "Buku Umum": {
+      "id": "1HU7VyfaFOPLi30LithQ3f7U0RwG6YfNg",
+      "ignoredAsDuplicateOfKelasX": true,
+      "files": [
+        {
+          "id": "1LeUDKwk2l6zELxWhKMdnn5BTiH-gdCzo",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:39.564Z",
+          "name": "Bahasa-Inggris-BG-KLS-X.pdf",
+          "size": "13858082"
+        },
+        {
+          "id": "1frtRcIGmfnHEUbShJGWo44CplEj9ca16",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:43.907Z",
+          "name": "Bahasa-Inggris-BS-KLS-X.pdf",
+          "size": "22662709"
+        },
+        {
+          "id": "1Ylg6m42o6TVIF2Q6BPhluFuuColAbB3x",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:45.750Z",
+          "name": "Bahasa_Indonesia_BG_KLS_X_Rev.pdf",
+          "size": "16343262"
+        },
+        {
+          "id": "1S3d-969pNb5-g6a80Ca3YJPFDZKWhiaM",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:45.312Z",
+          "name": "Bahasa_Indonesia_BS_KLS_X_Rev.pdf",
+          "size": "8388747"
+        },
+        {
+          "id": "1_ojpbfg2r8bYn3t2Hfz5AK8XTyj-gBPJ",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:37.802Z",
+          "name": "Dasar-Dasar-Kuliner-BG-KLS-X.pdf",
+          "size": "15985093"
+        },
+        {
+          "id": "1L_UZ4KPCmxyWeFcypUzIoI0oXYUrrt8S",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:44.590Z",
+          "name": "Dasar-Dasar-Kuliner-Semester-2-BS-KLS-X.pdf",
+          "size": "47885163"
+        },
+        {
+          "id": "1Q5lkpiEelG1X-KfuYEtW7AotthFMhnRQ",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:38.991Z",
+          "name": "Dasar-Dasar-Manajemen-Perkantoran-dan-Layanan-Bisnis-BG-KLS-X.pdf",
+          "size": "9018869"
+        },
+        {
+          "id": "1q1O5K5zgQqNv2kCd4RyeGzHWjgUM5xNN",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:40.112Z",
+          "name": "Dasar-Dasar-Manajemen-Perkantoran-dan-Layanan-Bisnis-Semester-2-BS-KLS-X.pdf",
+          "size": "26122455"
+        },
+        {
+          "id": "1I7vGKe5j-iEfgbgFssm9TQrcCJKvjuDM",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:38.061Z",
+          "name": "Dasar-Dasar-Teknik-Elektronika-BG-KLS-X.pdf",
+          "size": "20592483"
+        },
+        {
+          "id": "1wJ6EbNXgI_K4_bZN5avYZif8nd_j3ZWA",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:46.308Z",
+          "name": "Dasar-Dasar-Usaha-Layanan-Pariwisata-BG-KLS-X.pdf",
+          "size": "9387862"
+        },
+        {
+          "id": "1ZUJzIr1bUfWS14nDf8YqVF-nuQUeda6o",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:46.119Z",
+          "name": "Dasar-Dasar-Usaha-Layanan-Pariwisata-Semester-2-BS-KLS-X.pdf",
+          "size": "12428584"
+        },
+        {
+          "id": "1GXGBe_8AqpAPDGiRh7w-DCehq1009wR-",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:41.008Z",
+          "name": "IPA_BG_KLS_X_Rev.pdf",
+          "size": "5999616"
+        },
+        {
+          "id": "1FiglUvO2p1eporlsaSw3_yEBTaa92Xma",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:43.635Z",
+          "name": "IPA_BS_KLS_X_Rev.pdf",
+          "size": "36085249"
+        },
+        {
+          "id": "1o_jxyNPYpk8-vHHOj26XWTwMNQ91j2s2",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:45.921Z",
+          "name": "IPS_BG_KLS_X_Rev.pdf",
+          "size": "5967401"
+        },
+        {
+          "id": "1IMM0I62-I6zEq8F7UMLghIdInmCZ9Rrw",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:42.206Z",
+          "name": "IPS_BS_KLS_X_Rev.pdf",
+          "size": "21706934"
+        },
+        {
+          "id": "1gRAuSGLvE2x1Uq1QS-sMNlvcUayVdiA2",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:39.390Z",
+          "name": "Islam-BG-KLS-X.pdf",
+          "size": "2321340"
+        },
+        {
+          "id": "1ItwQ24_OZsxNy80_Y62py2-T2G_3stLn",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:41.280Z",
+          "name": "Islam-BS-KLS-X.pdf",
+          "size": "6874770"
+        },
+        {
+          "id": "1RJE-5U68fsffEefj_OOAt4NLje_mAJIe",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:44.119Z",
+          "name": "KKA_BG_KLS_10.pdf",
+          "size": "11773006"
+        },
+        {
+          "id": "19w82oIlFg-qUt-dmBn2MIAU7WQ6uJ9IF",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:39.277Z",
+          "name": "KKA_BS_KLS_10.pdf",
+          "size": "11551116"
+        },
+        {
+          "id": "1GLTkX7B84mHu6p2hmN_pDVs4U8ooE5O_",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:41.776Z",
+          "name": "Kristen-BS-KLS-X.pdf",
+          "size": "6027397"
+        },
+        {
+          "id": "12B9zstkQXC1BiY8D2QFsKyvn0j3VIzEE",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:40.452Z",
+          "name": "Kuliner-KLS-X-Sem-1.pdf",
+          "size": "38460162"
+        },
+        {
+          "id": "1rRNC7V88gxyz-brUcphmqPLwk640mB_z",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:37.387Z",
+          "name": "Manajemen-Perkantoran-Layanan-Bisnis-KLS-X-Sem-1.pdf",
+          "size": "7826048"
+        },
+        {
+          "id": "1gkoRWS5UyO8qA-Yxz8SyJl_77pyzOViM",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:39.800Z",
+          "name": "Matematika_BG_KLS_X_Rev.pdf",
+          "size": "17519214"
+        },
+        {
+          "id": "1FlgKfCO_rwaOEh34eCr-aUqDmLzL3ch6",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:45.527Z",
+          "name": "Matematika_BS_KLS_X_Rev.pdf",
+          "size": "14276936"
+        },
+        {
+          "id": "1_hMejF0sOb5lpX9OyszFeWhZGqaxVL3O",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:45.157Z",
+          "name": "Pendidikan-Pancasila-BG-KLS-X.pdf",
+          "size": "19705802"
+        },
+        {
+          "id": "1Lv7Ekpyj6yEdHNfPvqN4fA6slQFEYdyf",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:41.503Z",
+          "name": "Pendidikan-Pancasila-BS-KLS-X.pdf",
+          "size": "12429363"
+        },
+        {
+          "id": "1s073WKfC5qu_dc6zRJcuNgyO6WDFrHk1",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:41.163Z",
+          "name": "PJOK_BG_KLS_X.pdf",
+          "size": "6206600"
+        },
+        {
+          "id": "19IthcQYMd0SYTuLyEBbMtHMeNO_Qq4-q",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:40.678Z",
+          "name": "PJOK_BG_KLS_X_2.pdf",
+          "size": "6206600"
+        },
+        {
+          "id": "1IwlItbf70ARIC5ySpGJ_8OToA3hjpZWA",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:38.664Z",
+          "name": "PJOK_BS_KLS_X.pdf",
+          "size": "7042962"
+        },
+        {
+          "id": "16sadXRk6Fol9J6ivJmVS3Lf-wH-2ZEUz",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:41.898Z",
+          "name": "Prakarya-Budi-Daya-BG-KLS-X.pdf",
+          "size": "1663436"
+        },
+        {
+          "id": "18R9buCfkWEm4CMEGfhbWGFFdWdO9shCj",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:37.249Z",
+          "name": "Prakarya-Kerajinan-BG-KLS-X.pdf",
+          "size": "7012382"
+        },
+        {
+          "id": "1wPTR6GbDelcF46CCtbQO8nLhQFBNkQmq",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:43.303Z",
+          "name": "Prakarya-Pengolahan-BG-KLS-X.pdf",
+          "size": "2981912"
+        },
+        {
+          "id": "1gWCFEL2GQ9LL7oEUKILFI4DhK4ktxXVB",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:41.628Z",
+          "name": "Prakarya-Rekayasa-BG-KLS-X.pdf",
+          "size": "4457098"
+        },
+        {
+          "id": "1lKodEJpUY5HoW_XQStz9jM7QjMJ8B49z",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:40.847Z",
+          "name": "Sejarah-BG-KLS-X.pdf",
+          "size": "2960138"
+        },
+        {
+          "id": "1s3AJNnQ6haCGvmwwVPhFFwooQTNP1kcJ",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:38.511Z",
+          "name": "Sejarah-BS-KLS-X.pdf",
+          "size": "3545945"
+        },
+        {
+          "id": "1Gh2IR3cvYIyC1tloZRl_2yqVc77QYttW",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:44.903Z",
+          "name": "Seni-Rupa-KLS-X-Sem-1.pdf",
+          "size": "33025628"
+        },
+        {
+          "id": "1_AgfUc6XkKp1jMJYyniGlK8lcdVjAWsR",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:38.395Z",
+          "name": "Seni_Musik_BG_KLS_X_Rev.pdf",
+          "size": "33037865"
+        },
+        {
+          "id": "1OqgzZyI-jKotCiCIkUJip4r1xUNzHDJh",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:37.594Z",
+          "name": "Seni_Rupa_BG_KLS_X_Rev.pdf",
+          "size": "24195241"
+        },
+        {
+          "id": "1zWVzcYqhMdCFUce6BamwjUnZXFsptzxE",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:46.733Z",
+          "name": "Seni_Tari_BG_KLS_X_Rev.pdf",
+          "size": "46763259"
+        },
+        {
+          "id": "1wa4QE78uM7FUKjx6ZZ-nVuo_KnsUwORp",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:38.791Z",
+          "name": "Seni_Teater_BG_KLS_X_Rev.pdf",
+          "size": "4209551"
+        },
+        {
+          "id": "17n2gbKNx1xNcSIqaiuhISBoUd4eR_t3Q",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T03:16:36.965Z",
+          "name": "Usaha-Layanan-Pariwisata-KLS-X-Sem-1.pdf",
+          "size": "14435017"
+        }
+      ]
+    },
+    "Kelas X": {
+      "id": "1AkgSLbgAjU10JsXCECDx3MtQVPAI-Pt-",
+      "files": [
+        {
+          "id": "10EpA8w7A7sWsCR2vm2bIn9nLJ4dUhBT4",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:51.369Z",
+          "name": "Salinan Bahasa-Inggris-BG-KLS-X.pdf",
+          "size": "13858082"
+        },
+        {
+          "id": "16HUF0tB70IPWH9dixd1yIPBRwXbYlvph",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:51.369Z",
+          "name": "Salinan Bahasa-Inggris-BS-KLS-X.pdf",
+          "size": "22662709"
+        },
+        {
+          "id": "1sOpf48h9dZDWnB7-wFj1sKixSNFRMQ4G",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:51.369Z",
+          "name": "Salinan Bahasa_Indonesia_BG_KLS_X_Rev.pdf",
+          "size": "16343262"
+        },
+        {
+          "id": "19mAjjdNbWa_dlC0LqWvD-rnwqFSFYDkc",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:51.369Z",
+          "name": "Salinan Bahasa_Indonesia_BS_KLS_X_Rev.pdf",
+          "size": "8388747"
+        },
+        {
+          "id": "1-_iKshcRI-7iz5xRUHskFELV9J6hHP6P",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:51.369Z",
+          "name": "Salinan Dasar-Dasar-Kuliner-BG-KLS-X.pdf",
+          "size": "15985093"
+        },
+        {
+          "id": "1V5SGsPj1gG2Ss0zrsMk8CXzyAd0vvdNu",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:51.369Z",
+          "name": "Salinan Dasar-Dasar-Kuliner-Semester-2-BS-KLS-X.pdf",
+          "size": "47885163"
+        },
+        {
+          "id": "1Z9EKFwwhZYGbDt4ijWAFFZd5DLo3Ps9S",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan Dasar-Dasar-Manajemen-Perkantoran-dan-Layanan-Bisnis-BG-KLS-X.pdf",
+          "size": "9018869"
+        },
+        {
+          "id": "1CprIPZDji6oWvrP2fL_0ogFF1058wZgC",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan Dasar-Dasar-Manajemen-Perkantoran-dan-Layanan-Bisnis-Semester-2-BS-KLS-X.pdf",
+          "size": "26122455"
+        },
+        {
+          "id": "1eKr4dIPFcN5CC7M0hJqZSDiWlP4-G5qH",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan Dasar-Dasar-Teknik-Elektronika-BG-KLS-X.pdf",
+          "size": "20592483"
+        },
+        {
+          "id": "1rkBSWztnLcgd4kRkJ3aO46aM82ENbA3V",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan Dasar-Dasar-Usaha-Layanan-Pariwisata-BG-KLS-X.pdf",
+          "size": "9387862"
+        },
+        {
+          "id": "1saulZ-3A3RU2PxS_aqmJIK6fEM9p9YwY",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan Dasar-Dasar-Usaha-Layanan-Pariwisata-Semester-2-BS-KLS-X.pdf",
+          "size": "12428584"
+        },
+        {
+          "id": "1s72m1hOnD5P_H1zffaWmoQfbdhmksVx-",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan IPA_BG_KLS_X_Rev.pdf",
+          "size": "5999616"
+        },
+        {
+          "id": "19H6ToH-gZR--MlyTRhYFGMrDF91G1YHa",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan IPA_BS_KLS_X_Rev.pdf",
+          "size": "36085249"
+        },
+        {
+          "id": "1N8fLv0nQalq0x4obCBEHUNWwOK8T9Yb-",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan IPS_BG_KLS_X_Rev.pdf",
+          "size": "5967401"
+        },
+        {
+          "id": "1VCDFVDtsdu8i6okn2MdDSUw9gacRod-R",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan IPS_BS_KLS_X_Rev.pdf",
+          "size": "21706934"
+        },
+        {
+          "id": "1yAJviWK8tbCQtqFrBGx7SfiBtjduj73O",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan Islam-BG-KLS-X.pdf",
+          "size": "2321340"
+        },
+        {
+          "id": "1-TZj8NETxN7R5VAh-AoaexLdFvYzCZv9",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan Islam-BS-KLS-X.pdf",
+          "size": "6874770"
+        },
+        {
+          "id": "1zvSwmT0foHgcszOdE3U6MUAA4vQNwAoc",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan KKA_BG_KLS_10.pdf",
+          "size": "11773006"
+        },
+        {
+          "id": "1o6l-AO-QxP3mu7Hth8eZ-FYXCUECgiKX",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan KKA_BS_KLS_10.pdf",
+          "size": "11551116"
+        },
+        {
+          "id": "1FiKunVqgk3U2HUaOjdc5WeD4mYsrupqm",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan Kristen-BS-KLS-X.pdf",
+          "size": "6027397"
+        },
+        {
+          "id": "1g3xromRAkshKJUHfwxQQAJbX1JsBtjwk",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan Kuliner-KLS-X-Sem-1.pdf",
+          "size": "38460162"
+        },
+        {
+          "id": "1620naRW2h9Cvl6PSPOz16jJMaGStyYeQ",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan Manajemen-Perkantoran-Layanan-Bisnis-KLS-X-Sem-1.pdf",
+          "size": "7826048"
+        },
+        {
+          "id": "1eZ57DsZCxQtWNYkFsUAQwZTQrE2-CIke",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan Matematika_BG_KLS_X_Rev.pdf",
+          "size": "17519214"
+        },
+        {
+          "id": "1HJXqIAm_IHa_KxOezKOTnOqgtp4MukXx",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan Matematika_BS_KLS_X_Rev.pdf",
+          "size": "14276936"
+        },
+        {
+          "id": "15BhudY9QSaqFQPRsS7_K86rXXDqdh0aw",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan Pendidikan-Pancasila-BG-KLS-X.pdf",
+          "size": "19705802"
+        },
+        {
+          "id": "1rv8XeaX7-8TcKZqUKzkRMWuN5uWqCvQM",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan Pendidikan-Pancasila-BS-KLS-X.pdf",
+          "size": "12429363"
+        },
+        {
+          "id": "1OwGCH75A91ZxQi2zfhKR344Ik2QgZFM-",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan PJOK_BG_KLS_X.pdf",
+          "size": "6206600"
+        },
+        {
+          "id": "18vllxhDAkL5bGleR6TH06kXwSRCtUdjT",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan PJOK_BG_KLS_X_2.pdf",
+          "size": "6206600"
+        },
+        {
+          "id": "1WfSzXlZxC10Jx_nvAEoHg8kejej6zuFm",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan PJOK_BS_KLS_X.pdf",
+          "size": "7042962"
+        },
+        {
+          "id": "1FLBatg_VRTw2XTjYyZAFIViIqq7hUhVj",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan Prakarya-Budi-Daya-BG-KLS-X.pdf",
+          "size": "1663436"
+        },
+        {
+          "id": "1WscfeYMlUQoJuM6gxUYBftLcSTItIUkQ",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan Prakarya-Kerajinan-BG-KLS-X.pdf",
+          "size": "7012382"
+        },
+        {
+          "id": "1o-NiCsvh9_ZRkAGVV_V-JekOhPQtTv8E",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan Prakarya-Pengolahan-BG-KLS-X.pdf",
+          "size": "2981912"
+        },
+        {
+          "id": "14TRmXBVw2J321fcdBKjw9gYjrjDcILBT",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan Prakarya-Rekayasa-BG-KLS-X.pdf",
+          "size": "4457098"
+        },
+        {
+          "id": "1p3hbK2Hzl_e5Bvx5x9SxvcfWJclQwMm-",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan Sejarah-BG-KLS-X.pdf",
+          "size": "2960138"
+        },
+        {
+          "id": "1dFzzayrhHHtTEnRqrfCtcSAex7mY811k",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan Sejarah-BS-KLS-X.pdf",
+          "size": "3545945"
+        },
+        {
+          "id": "1_b3mtsvR__24vP1EoFEi3MbnCYaL0QjE",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan Seni-Rupa-KLS-X-Sem-1.pdf",
+          "size": "33025628"
+        },
+        {
+          "id": "1gF6MMHWfyWs_kuKwfQit150AkpeAh9ow",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan Seni_Musik_BG_KLS_X_Rev.pdf",
+          "size": "33037865"
+        },
+        {
+          "id": "1R6qFG-HzQoMNXMkl8RGIfsJhR5wJ5g_s",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan Seni_Rupa_BG_KLS_X_Rev.pdf",
+          "size": "24195241"
+        },
+        {
+          "id": "1BfNKSZBk5QqJEE2BBTg5gWQPMCqrhPgN",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan Seni_Tari_BG_KLS_X_Rev.pdf",
+          "size": "46763259"
+        },
+        {
+          "id": "1GF7n_QDPREe4056b1_I5jsyCTO6QLQH_",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:37.983Z",
+          "name": "Salinan Seni_Teater_BG_KLS_X_Rev.pdf",
+          "size": "4209551"
+        },
+        {
+          "id": "1tAd_dyvYCAI9LniQUBhbLJ6PQfVfCgTB",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:57:33.905Z",
+          "name": "Salinan Usaha-Layanan-Pariwisata-KLS-X-Sem-1.pdf",
+          "size": "14435017"
+        }
+      ]
+    },
+    "Kelas XI": {
+      "id": "1w8QDx08u_r7CuiTRSBHgK9NXSmCG4FJ7",
+      "files": [
+        {
+          "id": "1i36RzGF6r8hnPZYm_gFxlmNzRPe0l6qX",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan Animasi_BS_XI_dan_XII.pdf",
+          "size": "18467201"
+        },
+        {
+          "id": "1kyGc3ha7sXzsghP6m1-dEUpcDTZMHjEY",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan B_Korea_BG_KLS_11.pdf",
+          "size": "16555063"
+        },
+        {
+          "id": "1uuKzAWDSAkYv0GmzDGarmyBWpDmzDFVs",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan B_Korea_BS_KLS_11.pdf",
+          "size": "44680176"
+        },
+        {
+          "id": "16qlkKfPcfkkI7ksdZSkZ1JQWS9IJMu2O",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan Bahasa-Inggris-BG-KLS-XI-efc.pdf",
+          "size": "7836618"
+        },
+        {
+          "id": "1M8Ypb7hiG6fJtPdvFBgPU3fyMCzR4pqL",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan Bahasa-Inggris-BS-KLS-XI-efc.pdf",
+          "size": "11742999"
+        },
+        {
+          "id": "1eNlqndZmOkPVkHye9j6qe7ugR4kmviFc",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan Ekonomi_BS_KLS_XI_Rev_2.pdf",
+          "size": "10017083"
+        },
+        {
+          "id": "1LmxaC82w4y-APNt8Ofh4nJqMKSKGgHTI",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan Indonesia_BG_KLS_XI_Rev.pdf",
+          "size": "17648027"
+        },
+        {
+          "id": "1he624IygMNTHzTg_k_QHYZyrVEaF8tIw",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan Indonesia_BS_KLS_XI_Rev.pdf",
+          "size": "17100159"
+        },
+        {
+          "id": "1KnvKx-C-NqMROodVGBCoCxFInNMxx4fz",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan Informatika_BG_KLS_XI_Rev.pdf",
+          "size": "4761238"
+        },
+        {
+          "id": "1u0Wc-tS5-LYbf_uakzkIKcMCCvCHwFwl",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan Informatika_BS_KLS_XI_Rev.pdf",
+          "size": "9522694"
+        },
+        {
+          "id": "1j3LfWbZem53verY-54W4Z_qb5bncxoTt",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan Islam-BG-KLS-XI.pdf",
+          "size": "21938665"
+        },
+        {
+          "id": "1ToIu9mtBIR2tqdXjBe01AENf5KM1qnHo",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan Islam-BS-KLS-XI.pdf",
+          "size": "30415604"
+        },
+        {
+          "id": "1-agpR97Ocp9Dw-VX3P8cRtb54k2Sp7PO",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan Katolik-BS-KLS-XI.pdf",
+          "size": "2773766"
+        },
+        {
+          "id": "1Vw7Nt7VcuN0iXqK9vHkmLfBLx6txPQpY",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan Khonghucu-BS-KLS-XI.pdf",
+          "size": "7403467"
+        },
+        {
+          "id": "1AEgxI3a7mW_MVe1Ez-XdvXLXfGOL_73t",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan KKA_BG_KLS_11.pdf",
+          "size": "4020128"
+        },
+        {
+          "id": "1L1SaZR4UNqCIhk06iLy9k1LomM3lcU1W",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan KKA_BS_KLS_11.pdf",
+          "size": "4609873"
+        },
+        {
+          "id": "1ld3ygqchtU3uC0h19LRja0s4Fmi0CqMn",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan Kristen-BS-KLS-XI.pdf",
+          "size": "3889748"
+        },
+        {
+          "id": "1bzmMkvWF5VvDx1cLq3VorNkA68qNECQv",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan Kuliner_BG_Kelas_XI-XII.pdf",
+          "size": "19502888"
+        },
+        {
+          "id": "1Yi0QVUFJXndwvXI_7w3Et96Cz1lnRrGU",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan Mandarin_BG_XI.pdf",
+          "size": "12636210"
+        },
+        {
+          "id": "1-XwwElpmSedZUIIsm_Pk8e4YbcbPv69i",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan Matematika-BG-KLS-XI.pdf",
+          "size": "4475343"
+        },
+        {
+          "id": "1OPOo1Ebfo1JamZ_ZNO1Zhjd4yS4cMlfE",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan Matematika-BS-KLS-XI.pdf",
+          "size": "3750991"
+        },
+        {
+          "id": "1sZIVr25XFdwXWwaOiZHqQPoc4mFjM5Z5",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan Pendidikan-Pancasila-BG-KLS-XI.pdf",
+          "size": "3215780"
+        },
+        {
+          "id": "1ty2dasIOUChemHUCduXT4svHF9Bnc0iZ",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan Pendidikan-Pancasila-BS-KLS-XI-Rev.pdf",
+          "size": "4674626"
+        },
+        {
+          "id": "1TyI0QZLTgjaEKwLFtiSCQe_DFTCVQxvF",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan Pengembangan_Gim_BG_KLS_XI_XII.pdf",
+          "size": "10041897"
+        },
+        {
+          "id": "1XcsX5fAxh8XPRR2lfnuSCqtZxq-nabwO",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan PJOK_BG_KLS_XI.pdf",
+          "size": "6992000"
+        },
+        {
+          "id": "1Yuh2o859T8Pazjm6rwAxWkedZD2JkFoz",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan PJOK_BS_KLS_XI.pdf",
+          "size": "12398992"
+        },
+        {
+          "id": "1r7UHTkCLALCx468lUWFZinHzChiDKeaP",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan Prakarya-Pengolahan-BG-KLS-XI.pdf",
+          "size": "3054615"
+        },
+        {
+          "id": "1X8Hs-F6IgrBKaS4I4r4Z2VjcUUzaJuf9",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan Prakarya-Rekayasa-BG-KLS-XI.pdf",
+          "size": "4182721"
+        },
+        {
+          "id": "1iAADHigsLHPBub-3A3CS0Oci8rqEHejO",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan Sejarah-BG-KLS-XI.pdf",
+          "size": "3282693"
+        },
+        {
+          "id": "1iusQL0rG1-u_0VPMaHm-wuVU329P6ZDh",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan Sejarah-BS-KLS-XI.pdf",
+          "size": "6518427"
+        },
+        {
+          "id": "12qdbORxis2eUz4JlWtfAY9udGj53kNNm",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan Seni_Rupa_BG_KLS_XI_Rev.pdf",
+          "size": "9096476"
+        },
+        {
+          "id": "1U-ZNuisnWTTIqk5nk3zSznl-UML589yq",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:42.092Z",
+          "name": "Salinan Seni_Tari_BG_KLS_XI_Rev.pdf",
+          "size": "16342448"
+        },
+        {
+          "id": "1le1YcrucY1YsOpUyyzy45uggNReOYS3J",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:58:40.167Z",
+          "name": "Salinan Seni_Teater_BG_KLS_XI_Rev.pdf",
+          "size": "5574787"
+        }
+      ]
+    },
+    "Kelas XII": {
+      "id": "1BSo3BkfvQn9-jjJD-tjZcgySec2mgkw2",
+      "files": [
+        {
+          "id": "19j9KQaw5kzmM9VpsKeNmriiGePJtP3Xs",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T05:00:12.979Z",
+          "name": "Salinan Animasi_BG_XI_dan_XII.pdf",
+          "size": "12941686"
+        },
+        {
+          "id": "1zF-qtm73R9RFvCdE-RUvqT6KhX29y386",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T05:00:12.979Z",
+          "name": "Salinan Animasi_BS_XI_dan_XII.pdf",
+          "size": "18467201"
+        },
+        {
+          "id": "1Pm1EW1vPnifRT0kbxsI1Nor--x39N6vj",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T05:00:12.979Z",
+          "name": "Salinan Antropologi_BS_KLS_XII.pdf",
+          "size": "19117842"
+        },
+        {
+          "id": "12m-4n0BBlol1wOf9Y4EQ6G6v_BDx_yMG",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T05:00:12.979Z",
+          "name": "Salinan Biologi_BS_KLS_XII_Rev.pdf",
+          "size": "123939567"
+        },
+        {
+          "id": "1Ni0OItpfhxvHTzj68E1163gYQnCTrI24",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T05:00:12.979Z",
+          "name": "Salinan Buddha_BG_KLS_XII.pdf",
+          "size": "5868182"
+        },
+        {
+          "id": "1TYMulYgwhQFMlqZFBkIdnX64thmvbgsb",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T05:00:12.979Z",
+          "name": "Salinan Buddha_BS_KLS_XII.pdf",
+          "size": "18912674"
+        },
+        {
+          "id": "1yaVaua-Ociff2KVSkRt4jhO-QnX1Jeac",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T05:00:12.979Z",
+          "name": "Salinan Ekonomi_BG_KLS_XII.pdf",
+          "size": "4126544"
+        },
+        {
+          "id": "1hPa2XwZ0dVXxZrcmlpdL66SNUzi-y5R4",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T05:00:12.979Z",
+          "name": "Salinan Ekonomi_BS_KLS_XII.pdf",
+          "size": "12912196"
+        },
+        {
+          "id": "13sObQc0YsppqLnYldC2vWwJINDNq-l4i",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Fisika_BG_KLS_XII.pdf",
+          "size": "17463363"
+        },
+        {
+          "id": "1RGupLHtY7D8NQxv-LPLou0ZLengFQ9ll",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Fisika_BS_KLS_XII.pdf",
+          "size": "29421883"
+        },
+        {
+          "id": "11bywyifVo443ubBiRUxQjIfjLN8M1n1Q",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Geografi_BG_KLS_XII.pdf",
+          "size": "17334325"
+        },
+        {
+          "id": "1lAhSQAP3_q2Q0RI8zaT-Z8gi_h8_fx6Q",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Geografi_BS_KLS_XII.pdf",
+          "size": "58877722"
+        },
+        {
+          "id": "1A0a8GpVfjcPlw-aSlxg-5lLMD7qOfJkh",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Hindu-BG-KLS-XII.pdf",
+          "size": "2589065"
+        },
+        {
+          "id": "1bJR7EV4umF6jxxo0cnHZavK5miGieAP9",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Hindu-BS-KLS-XII.pdf",
+          "size": "19728036"
+        },
+        {
+          "id": "1jEmid28vI1bbTFnA8uNp_lU6-bRJaZz2",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Indonesia_BG_KLS_XII.pdf",
+          "size": "14619211"
+        },
+        {
+          "id": "1g7eT__20DjSnL3stooF70Q2mWycUReiz",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Indonesia_BG_TL_KLS_XII_Rev.pdf",
+          "size": "5353615"
+        },
+        {
+          "id": "1j3Nut7DSmUPuXz3NBsWPblTuXqE2LImS",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Indonesia_BS_KLS_XII.pdf",
+          "size": "46318245"
+        },
+        {
+          "id": "1HE1HZTR-O0IpBfCC5vzVH7-uMuv_QtI9",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Indonesia_BS_TL_KLS_XII_Rev.pdf",
+          "size": "6678477"
+        },
+        {
+          "id": "1sU-Zxm0xCKKoZ002baJR3PT7THkgWZSh",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Informatika_BG_KLS_XII.pdf",
+          "size": "8464275"
+        },
+        {
+          "id": "18_GIdM6s3NLlqZPVApMMbdIWWrsNIOEr",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Informatika_BS_KLS_XII.pdf",
+          "size": "98098199"
+        },
+        {
+          "id": "1Rcg7fKZUwKNESlqBdZPN6oAPtEc5743W",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Inggris_BG_KLS_XII.pdf",
+          "size": "11271025"
+        },
+        {
+          "id": "1hgz-z0a-Z9iel9vTX9PxSh5cfPHMsAgA",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Inggris_BS_KLS_XII.pdf",
+          "size": "36708225"
+        },
+        {
+          "id": "1ARgfAxPwepItbovHNP_WxothfrVqt12s",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Inggris_Lanjut_BG_KLS_XII.pdf",
+          "size": "14151443"
+        },
+        {
+          "id": "1RejWE7q1DZ-7E5EWKPbEBwQkdT4dxg-y",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Inggris_Lanjut_BS_KLS_XII.pdf",
+          "size": "59942503"
+        },
+        {
+          "id": "1MTFZRg2VBAPlmssLBnJFLTvyBrd0j1o6",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Islam_BG_KLS_XII_.pdf",
+          "size": "14217966"
+        },
+        {
+          "id": "1zcJ0u4GfNHAoYrptuord9C4c-C5-YCGM",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Islam_BS_KLS_XII_.pdf",
+          "size": "17216418"
+        },
+        {
+          "id": "19Q6G0SxZ-NRaTyQD1Fg_SAx1qv7W_aFi",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Katolik_BG_KLS_XII.pdf",
+          "size": "7966091"
+        },
+        {
+          "id": "1tJblEkTd5KP_i8c4pn9SYFtYOwU-u2ks",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Katolik_BS_KLS_XII.pdf",
+          "size": "2193187"
+        },
+        {
+          "id": "1PEgzOY3fm-yG8b9iB-pm_cu4zJyZoQyr",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Kepercayaan_BG_KLS_XII.pdf",
+          "size": "6546364"
+        },
+        {
+          "id": "1J1FglheRXg0JwELXD1y_C8-JDsrvH_fx",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Kepercayaan_BS_KLS_XII.pdf",
+          "size": "24264639"
+        },
+        {
+          "id": "1wHqWK-Kp-x3GJlmdAvhOBmmCdRTQs-k-",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Khonghucu-BG-KLS-XII.pdf",
+          "size": "7187514"
+        },
+        {
+          "id": "1IRT0Xvo5Dq_0dXBCvU_thsFtkA1js7gJ",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Khonghucu-BS-KLS-XII.pdf",
+          "size": "20397722"
+        },
+        {
+          "id": "1fTUpiP-Dz7XGWjwAS5_TnF63jBPQ1sDv",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Kimia_BG_KLS_XII.pdf",
+          "size": "7832855"
+        },
+        {
+          "id": "1ae8rU6mzhsQtRMNe62KmG8IP3dnnrM2O",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Kimia_BS_KLS_XII.pdf",
+          "size": "19568805"
+        },
+        {
+          "id": "1hZvFEPR_31vhnKP_HM-Fu3OMd_nRaKob",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Kristen-BG-KLS-XII.pdf",
+          "size": "13428632"
+        },
+        {
+          "id": "1C7b3hpMmpoOaYdSg8pFGChySM66PMAEl",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Kristen-BS-KLS-XII.pdf",
+          "size": "16573288"
+        },
+        {
+          "id": "1eZ_faGsEGlGUKtZGzEejGuzryq_NeWKR",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Matematika-BS-KLS-XII.pdf",
+          "size": "11846807"
+        },
+        {
+          "id": "1F9DjWSD1xCEp7li0XKJVgLVF5gtVYFb2",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Matematika-Lanjut-BS-KLS-XII.pdf",
+          "size": "65178211"
+        },
+        {
+          "id": "19LaDj4mZujFTYsbkYhAYIsd7rg_Y6sPu",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Matematika_BG_KLS_XII.pdf",
+          "size": "11520702"
+        },
+        {
+          "id": "1mKLKw5OC5Fsxnni2ZEeceB9vREw2ypsl",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Matematika_Lanjut_BG_KLS_XII.pdf",
+          "size": "107190410"
+        },
+        {
+          "id": "1iKbrFJNag8q-UsbK_-AqV-piu2Y-hmfv",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Pendidikan-Pancasila-BG-KLS-XII.pdf",
+          "size": "7531042"
+        },
+        {
+          "id": "1_r-S0eJQYy6DR2CLiwlSYHvJ5HQ_xhBS",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Pendidikan-Pancasila-BS-KLS-XII.pdf",
+          "size": "20398717"
+        },
+        {
+          "id": "17G3oBhhymqumTUECy1lVF2HbACMBAlBK",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Pengembangan_Gim_BG_KLS_XI_XII.pdf",
+          "size": "10041897"
+        },
+        {
+          "id": "1hWs_h8LOFT3PvpcHukDgIb1nXK-TseAW",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Pengembangan_Gim_BS_KLS_XI_XII.pdf",
+          "size": "20926789"
+        },
+        {
+          "id": "1ILNi4bWeuAqnxn1vpn9KgtOjqNUUpVqh",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan PJOK_BG_KLS_XII.pdf",
+          "size": "18427360"
+        },
+        {
+          "id": "19v5XPaWqDLSAUOwEDSxV_brCV3-5kRce",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Prakarya_Budidaya_BG_KLS_XII.pdf",
+          "size": "7901074"
+        },
+        {
+          "id": "1M6JEE7_K7sA2_fGSpVMPg-BPQgxtse8h",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Prakarya_Kerajinan_BG_KLS_XII.pdf",
+          "size": "41001044"
+        },
+        {
+          "id": "1bsw9RV_KHROKKQ1A_KCkXMCIrVQhnm7z",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Prakarya_Pengolahan_BG_KLS_XII.pdf",
+          "size": "8851888"
+        },
+        {
+          "id": "19jDm0j4dMI5ezff6ouzh4mgQUMzIFihi",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:55.656Z",
+          "name": "Salinan Prakarya_Rekayasa_BG_KLS_XII.pdf",
+          "size": "6062814"
+        },
+        {
+          "id": "1ua78ELNngy50ptGLe8CFsRV7EHgd52D_",
+          "mimeType": "application/pdf",
+          "modifiedTime": "2026-11-26T04:59:53.245Z",
+          "name": "Salinan Rupa_BG_KLS_XII.pdf",
+          "size": "51843651"
+        }
+      ]
+    }
+  }
+}
