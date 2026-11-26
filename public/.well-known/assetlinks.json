@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "id.sch.perpus.daftarbuku",
+        "sha256_cert_fingerprints": ["4B:DB:76:ED:0F:16:29:67:6D:29:17:B1:38:A3:21:F7:11:D4:C2:79:9D:A6:08:D3:45:B9:9C:C8:45:8C:84:5B"]
+      }
+    }]
